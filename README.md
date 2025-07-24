@@ -36,9 +36,8 @@ This is a basic **CRUD-based Web Application** built using **ASP.NET Web Forms**
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your form and GridView here)*
+<img width="846" height="796" alt="image" src="https://github.com/user-attachments/assets/f6228a02-af54-4706-935d-0f7eceb50de7" />
 
----
 
 ## ⚙️ Setup Instructions
 
