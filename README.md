@@ -25,19 +25,6 @@ This is a basic **CRUD-based Web Application** built using **ASP.NET Web Forms**
 
 ---
 
-## 📂 Folder Structure
-
-WebSite4/
-│
-├── Default.aspx # Main web page (UI)
-├── Default.aspx.cs # Backend logic (C#)
-├── Web.config # Configuration (DB connection string)
-└── App_Data/ # (Optional) For database if using .mdf
-
-
-
----
-
 ## 🧠 How It Works
 
 1. User enters student details into a form
